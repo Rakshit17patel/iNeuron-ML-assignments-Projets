@@ -1,2 +1,2 @@
-# iNeuron-ML-assignments-Projets
+# iNeuron-ML-assignments-Projects
 ML assignments and projects
